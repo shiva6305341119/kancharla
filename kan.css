@@ -1,0 +1,52 @@
+h1{
+color:white;
+background-color: aqua;
+
+}
+
+h5{
+color:white;
+background-color: aqua;
+    
+}
+h2{
+    color:blue;
+}
+h3{
+    color:red;
+
+
+}
+
+
+
+.domain{
+    color: aqua;
+}
+
+
+td{
+    text-align: center;
+   background-color:rgb(104, 219, 113);
+    text-align:left;
+    height:30px;
+    width: 300px;
+
+}
+ th{
+    color:red
+
+
+ }
+
+.head{
+    display: flex;
+    padding-left:100px;
+}
+pre{
+    display: inline;
+}
+
+
+
+
